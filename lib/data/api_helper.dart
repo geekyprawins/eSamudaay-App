@@ -1,9 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:esamudaay_app/data/models/product.dart';
-import 'package:esamudaay_app/utils/constants.dart';
 
 class ApiHelper {
-  static Future<List<Product>> getProducts() async {
+  static Future<List<Product>> getProducts(String apiUrl) async {
     var response = await Dio().get(apiUrl);
     print("Products received: " + response.data.length.toString());
     List<Product> products = [];
