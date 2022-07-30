@@ -1,16 +1,5 @@
-# esamudaay_app
+## eSamudaay Hackathon 2022
 
-A new Flutter project.
+### [Presentation Link](https://www.canva.com/design/DAFHyvuPUt4/-V1kfPO_hlxehjYdNmanCg/view?utm_content=DAFHyvuPUt4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### [Video Link](https://drive.google.com/file/d/1V70Nqk1MYxdkf85dEen3yaINPA8kkXjt/view?usp=sharing)
